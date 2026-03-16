@@ -2,6 +2,8 @@
 
 Software tools for Ben Eater's 8-bit computer build.
 
+![8 bit computer calculating the Fibonacci sequence](demo.mp4)
+
 ## Programmer
 
 Interface the EEPROM programmer module through USB. No need to hardcode, compile and upload EEPROM data every time. Just execute `programmer.py` from your computer and send read/write commands to the programmer module.
