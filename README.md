@@ -2,7 +2,7 @@
 
 Software tools for Ben Eater's 8-bit computer build.
 
-![8 bit computer calculating the Fibonacci sequence](https://github.com/user-attachments/assets/862f9428-d8f8-4a0f-93e0-ad55fb1c36d2)
+[![8 bit computer calculating the Fibonacci sequence](https://img.youtube.com/vi/9gKs87u0kn8/0.jpg)](https://youtu.be/9gKs87u0kn8)
 
 ## Programmer
 
